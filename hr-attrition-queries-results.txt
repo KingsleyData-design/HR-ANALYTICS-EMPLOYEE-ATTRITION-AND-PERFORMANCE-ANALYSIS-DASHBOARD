@@ -1,0 +1,99 @@
+﻿TotalRows
+1470
+
+(1 row affected)
+
+Attrition,EmployeeCount
+0,1233
+1,237
+
+(2 rows affected)
+
+Department,TotalEmployees,AttritionCount,AttritionRatePercent
+Sales,446,92,20.627802690583
+Human Resources,63,12,19.047619047619
+Research & Development,961,133,13.8397502601457
+
+(3 rows affected)
+
+OverTime,TotalEmployees,AttritionCount,AttritionRatePercent
+1,416,127,30.5288461538462
+0,1054,110,10.4364326375712
+
+(2 rows affected)
+
+JobSatisfaction_Label,TotalEmployees,AttritionCount,AttritionRatePercent
+Low,289,66,22.8373702422145
+High,442,73,16.5158371040724
+Medium,280,46,16.4285714285714
+Very High,459,52,11.3289760348584
+
+(4 rows affected)
+
+Age_Group,TotalEmployees,AttritionCount,AttritionRatePercent
+18-25,123,44,35.7723577235772
+26-35,606,116,19.1419141914191
+36-45,468,43,9.18803418803419
+46-55,226,26,11.5044247787611
+56+,47,8,17.0212765957447
+
+(5 rows affected)
+
+JobRole,TotalEmployees,AttritionCount,AttritionRatePercent
+Sales Representative,83,33,39.7590361445783
+Laboratory Technician,259,62,23.9382239382239
+Human Resources,52,12,23.0769230769231
+Sales Executive,326,57,17.4846625766871
+Research Scientist,292,47,16.0958904109589
+Manufacturing Director,145,10,6.89655172413793
+Healthcare Representative,131,9,6.87022900763359
+Manager,102,5,4.90196078431373
+Research Director,80,2,2.5
+
+(9 rows affected)
+
+MaritalStatus,TotalEmployees,AttritionCount,AttritionRatePercent
+Single,470,120,25.531914893617
+Married,673,84,12.481426448737
+Divorced,327,33,10.0917431192661
+
+(3 rows affected)
+
+JobRole,AvgMonthlyIncome
+Manager,17181.6764
+Research Director,16033.55
+Healthcare Representative,7528.7633
+Manufacturing Director,7295.1379
+Sales Executive,6924.2791
+Human Resources,4235.75
+Research Scientist,3239.9726
+Laboratory Technician,3237.1698
+Sales Representative,2626.00
+
+(9 rows affected)
+
+YearsAtCompany_Group,TotalEmployees,AttritionCount,AttritionRatePercent
+0-2 yrs,342,102,29.8245614035088
+11+ yrs,246,20,8.13008130081301
+3-5 yrs,434,60,13.8248847926267
+6-10 yrs,448,55,12.2767857142857
+
+(4 rows affected)
+
+DistanceFromHome_Group,TotalEmployees,AttritionCount,AttritionRatePercent
+0-5 km,632,87,13.7658227848101
+11-20 km,240,48,20
+21+ km,204,45,22.0588235294118
+6-10 km,394,57,14.4670050761421
+
+(4 rows affected)
+
+BusinessTravel,TotalEmployees,AttritionCount,AttritionRatePercent
+Travel_Frequently,277,69,24.9097472924188
+Travel_Rarely,1043,156,14.9568552253116
+Non-Travel,150,12,8
+
+(3 rows affected)
+
+
+Completion time: 2026-07-09T22:04:50.8756272+01:00
