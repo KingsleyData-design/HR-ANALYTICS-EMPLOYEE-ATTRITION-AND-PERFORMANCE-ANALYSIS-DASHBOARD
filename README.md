@@ -1,5 +1,4 @@
-# HR Employee Attrition Analysis
-
+# HR EMPLOYEE ATTRITION ANALYSIS 
 So why do people actually quit? That's the whole question behind this one. I took IBM's HR Analytics dataset (1,470 employees) and pulled it apart in Excel, Power BI, SQL, and Python to see what the data actually says.
 
 ## The data
@@ -10,9 +9,12 @@ It came in pretty clean, no duplicates or missing values, so most of the cleanin
 
 ## Key Metrics
 | Metric | Value|
-| Total Employees | 1,470 |
+|---|---:|
+| **Total Employees** | **1,470** |
+| **Average Monthly Income** | **$6,503** |
+| **Attrition Rate** | **16.1%** |
 
-## What the data actually says
+## What the data actually says (Insights)
 
 - **Overtime is the biggest tell.** People who work overtime leave way more than people who don't. And get this — almost 3 out of 4 employees in this dataset are working overtime. That's not a small group, that's most of the company.
 - **Year one and two are the danger zone.** New hires leave the most. Once someone's past the two-year mark, they're way more likely to stick around.
