@@ -14,7 +14,7 @@ It came in pretty clean, no duplicates or missing values, so most of the cleanin
 | **Average Monthly Income** | **$6,503** |
 | **Attrition Rate** | **16.1%** |
 
-## What the data actually says (Insights)
+## Insights — What the data actually says?
 
 - **Overtime is the biggest tell.** People who work overtime leave way more than people who don't. And get this — almost 3 out of 4 employees in this dataset are working overtime. That's not a small group, that's most of the company.
 - **Year one and two are the danger zone.** New hires leave the most. Once someone's past the two-year mark, they're way more likely to stick around.
@@ -22,7 +22,7 @@ It came in pretty clean, no duplicates or missing values, so most of the cleanin
 - **Sales has it worse than every other department.** HR's not far behind. R&D is the most stable.
 - **Entry-level roles bleed the most people** — makes sense given the tenure pattern, people are leaving before they even get promoted once.
 
-## So what should the company actually do about it?
+## Recommendations — So what should the company actually do about it?
 
 - **Look hard at overtime policy.** If 3 out of 4 people are working overtime and it's tied to the biggest attrition spike, that's not a coincidence — it's burnout. Worth checking if workload's actually manageable or if headcount's just too thin.
 - **Fix onboarding and the first two years, not just hiring.** Since people leave earliest, the problem isn't attracting talent — it's keeping them once they're in. Better mentorship, clearer growth paths, and early check-ins could catch people before they check out.
